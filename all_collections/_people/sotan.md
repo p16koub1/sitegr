@@ -3,7 +3,7 @@ ref: sotan
 title: "Σωτηροπούλου Άννα"
 bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.) ΠΕ Τμήματος Πληροφορικής"
 rank: 5
-author: p16koub1
+author: sotan
 email: "annasoti@ionio.gr"
 uri:
 research:
